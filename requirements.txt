@@ -1,0 +1,13 @@
+langchain
+langchain-openai
+langchain-community
+langgraph
+networkx
+pandas
+matplotlib
+scipy
+tqdm
+ipykernel
+python-dotenv
+httpx
+python-louvain
